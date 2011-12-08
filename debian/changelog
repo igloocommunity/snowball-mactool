@@ -1,0 +1,5 @@
+snowball-mactool (1.0-0) oneiric; urgency=low
+
+  * Initial packaging.
+
+ -- Kalle Vahlman <kalle.vahlman@movial.com>  Thu, 08 Dec 2011 07:34:34 +0000

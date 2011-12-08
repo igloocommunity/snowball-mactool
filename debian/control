@@ -1,0 +1,14 @@
+Source: snowball-mactool
+Section: misc
+Priority: extra
+Maintainer: Kalle Vahlman <kalle.vahlman@movial.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: http://www.igloocommunity.org
+
+Package: snowball-mactool
+Architecture: armel
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Ethernet MAC changer for Snowball
+ With this tool you can change the ethernet MAC address on
+ ST-Ericsson Snowball boards
