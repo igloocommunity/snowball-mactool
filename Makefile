@@ -1,5 +1,5 @@
-
-CC := arm-linux-gnueabi-gcc
+CROSS_COMPILE :=
+CC := $(CROSS_COMPILE)gcc
 
 SOURCES = newmac.c
 
