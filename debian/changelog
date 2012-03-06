@@ -1,3 +1,9 @@
+snowball-mactool (1.0.1-0) precise; urgency=low
+
+  * Build changes for armhf
+
+ -- Kalle Vahlman <kalle.vahlman@movial.com>  Tue, 06 Mar 2012 19:45:50 +0000
+
 snowball-mactool (1.0-0) oneiric; urgency=low
 
   * Initial packaging.
